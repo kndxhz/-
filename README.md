@@ -10,4 +10,4 @@
 - 《汉化》了一下
 - 去除一个《多余》按钮
 # 协议
-[gpl-3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)
